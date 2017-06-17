@@ -1,0 +1,1 @@
+baidu map in odoo
